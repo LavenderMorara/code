@@ -1,0 +1,17 @@
+body{
+    display: block;
+    background-color: aqua;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: blue;
+}
+#submit {
+    color: rgb(35, 8, 151);
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: bisque;
+}
+#clear {
+    color: bisque;
+}
